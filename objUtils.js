@@ -21,7 +21,7 @@ const mapValues = function mapValues(s1,s2){
         }
     }
     let s1Length = Object.keys(obj).length;
-    console.log(obj);
+
     if(s1Length === y){
         return true;
     }
