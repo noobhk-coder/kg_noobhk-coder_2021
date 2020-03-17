@@ -1,0 +1,16 @@
+{
+  "name": "kargo_pre-assesment",
+  "version": "1.0.0",
+  "description": "String matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Harishkumar Moothedathu noobhk-coder",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "kg_noobhk-coder_2021"
+  }
+}
